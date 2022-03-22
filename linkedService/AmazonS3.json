@@ -1,0 +1,15 @@
+{
+	"name": "AmazonS3",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"description": "Test",
+		"annotations": [],
+		"type": "AmazonS3",
+		"typeProperties": {
+			"serviceUrl": "cadesummers.github.io",
+			"accessKeyId": "fake_access_key_id",
+			"authenticationType": "AccessKey",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEUyRTExNTIzLTNBODctNEZBNC1BMTQ4LUU1QjlBMzBEMERFM180ODg0ZTllYS0zYWE0LTRiMTYtYWI2NS0wYmEwYmZiNmJjM2EiDQp9"
+		}
+	}
+}
