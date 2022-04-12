@@ -4,6 +4,7 @@
 		"activities": [
 			{
 				"name": "Copy data1",
+				"description": "Copy Data from SQL Server (Cryptocurrencies) to Delimited Text File (DelimitedText1)",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
